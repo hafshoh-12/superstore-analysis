@@ -1,0 +1,794 @@
+customer_id,customer_name,segment_rfm,recency,frequency,monetary,total_profit
+AA-10315,Alex Avila,Berisiko,185,5,5563.56,-362.88
+AA-10375,Allen Armold,Aktif,20,9,1056.39,277.38
+AA-10480,Andrew Allen,Berisiko,260,4,1790.51,435.83
+AA-10645,Anna Andreadi,Bernilai Tinggi,56,6,5086.93,857.8
+AB-10015,Aaron Bergman,Berisiko,417,3,886.16,129.35
+AB-10060,Adam Bellavance,Bernilai Tinggi,55,8,7755.62,2054.59
+AB-10105,Adrian Barton,Bernilai Tinggi,42,10,14473.57,5444.81
+AB-10150,Aimee Bixby,Berisiko,42,5,966.71,313.66
+AB-10165,Alan Barnes,Aktif,26,8,1113.84,220.81
+AB-10255,Alejandro Ballentine,Bernilai Tinggi,167,9,914.53,264.57
+AB-10600,Ann Blume,Berisiko,51,4,1515.86,-274.96
+AC-10420,Alyssa Crouse,Berisiko,233,3,925.8,-62.13
+AC-10450,Amy Cox,Aktif,12,7,5527.85,1366.01
+AC-10615,Ann Chong,Aktif,7,5,2537.69,298.83
+AC-10660,Anna Chung,Berisiko,283,5,657.32,-28.7
+AD-10180,Alan Dominguez,Bernilai Tinggi,30,8,6106.88,1869.93
+AF-10870,Art Ferguson,Aktif,42,7,2052.91,317.97
+AF-10885,Art Foster,Berisiko,417,4,861.56,-163.12
+AG-10270,Alejandro Grove,Berisiko,279,5,2582.9,732.74
+AG-10300,Aleksandra Gannaway,Hilang,119,4,367.55,59.29
+AG-10330,Alex Grayson,Aktif,9,5,660.97,-5.14
+AG-10390,Allen Goldenen,Hilang,115,5,200.94,69.28
+AG-10495,Andrew Gjertsen,Bernilai Tinggi,79,8,2356.86,295.67
+AG-10525,Andy Gerbode,Berisiko,846,4,1455.04,-152.76
+AG-10675,Anna Gayman,Bernilai Tinggi,98,7,3489.04,-246.43
+AG-10765,Anthony Garverick,Hilang,78,4,170.58,-8.43
+AG-10900,Arthur Gainer,Bernilai Tinggi,97,10,4510.8,343.68
+AH-10030,Aaron Hawkins,Aktif,13,7,1744.7,365.22
+AH-10075,Adam Hart,Bernilai Tinggi,35,10,3250.34,281.19
+AH-10120,Adrian Hane,Bernilai Tinggi,61,7,1735.51,-2.31
+AH-10195,Alan Haines,Berisiko,56,4,1587.45,-378.55
+AH-10210,Alan Hwang,Aktif,7,9,4805.34,1308.55
+AH-10465,Amy Hunt,Berisiko,231,5,2495.39,-196.12
+AH-10585,Angele Hood,Aktif,22,4,738.5,83.96
+AH-10690,Anna Häberlin,Bernilai Tinggi,412,12,7888.29,1298.02
+AI-10855,Arianne Irving,Aktif,14,10,4375.79,867.73
+AJ-10780,Anthony Jacobs,Bernilai Tinggi,76,7,4867.34,150.71
+AJ-10795,Anthony Johnson,Bernilai Tinggi,167,7,4501.39,1158.71
+AJ-10945,Ashley Jarboe,Bernilai Tinggi,86,7,1839.24,521.14
+AJ-10960,Astrea Jones,Hilang,75,3,629.25,60.43
+AM-10360,Alice McCarthy,Aktif,29,5,814.01,194.99
+AM-10705,Anne McFarland,Bernilai Tinggi,163,8,5664.02,1085.73
+AO-10810,Anthony O'Donnell,Hilang,503,1,161.28,12.1
+AP-10720,Anne Pryor,Aktif,42,8,1638.55,285.79
+AP-10915,Arthur Prichep,Bernilai Tinggi,99,10,3323.56,579.31
+AR-10345,Alex Russell,Berisiko,112,4,1055.69,-221.05
+AR-10405,Allen Rosenblatt,Berisiko,126,5,2236.13,-98.76
+AR-10510,Andrew Roberts,Aktif,15,5,264.86,43.67
+AR-10540,Andy Reiter,Aktif,7,6,6608.45,2884.62
+AR-10570,Anemone Ratner,Hilang,536,1,88.15,32.63
+AR-10825,Anthony Rawles,Bernilai Tinggi,59,8,4523.34,494.84
+AS-10045,Aaron Smayling,Bernilai Tinggi,89,7,3050.69,-253.57
+AS-10090,Adam Shillingsburg,Bernilai Tinggi,29,9,3255.31,64.54
+AS-10135,Adrian Shami,Hilang,42,2,58.82,21.85
+AS-10225,Alan Schoenberger,Aktif,23,5,4260.78,719.78
+AS-10240,Alan Shonely,Berisiko,193,7,584.61,33.72
+AS-10285,Alejandro Savely,Aktif,20,6,3214.24,354.63
+AS-10630,Ann Steele,Berisiko,93,7,833.4,136.49
+AT-10435,Alyssa Tate,Aktif,22,6,1171.81,100.88
+AT-10735,Annie Thurman,Aktif,14,10,3831.86,974.11
+AW-10840,Anthony Witt,Aktif,21,4,649.38,65.77
+AW-10930,Arthur Wiediger,Bernilai Tinggi,47,7,2852.97,-104.55
+AY-10555,Andy Yotov,Aktif,15,4,497.01,103.35
+AZ-10750,Annie Zypern,Berisiko,161,6,1622.02,154.95
+BB-10990,Barry Blumstein,Berisiko,106,5,744.34,11.58
+BB-11545,Brenda Bowman,Bernilai Tinggi,29,9,6765.73,1015.08
+BC-11125,Becky Castell,Bernilai Tinggi,203,9,2933.68,251.6
+BD-11320,Bill Donatelli,Bernilai Tinggi,34,12,5718.52,1094.5
+BD-11500,Bradley Drucker,Aktif,36,6,4411.24,1142.12
+BD-11560,Brendan Dodson,Hilang,279,2,320.54,116.71
+BD-11605,Brian Dahlen,Bernilai Tinggi,98,7,3288.47,634.85
+BD-11620,Brian DeCherney,Berisiko,70,6,1538.11,206.76
+BD-11635,Brian Derr,Aktif,10,3,582.65,141.53
+BD-11725,Bruce Degenhardt,Berisiko,94,6,1526.5,333.98
+BD-11770,Bryan Davis,Berisiko,329,6,658.47,141.26
+BE-11335,Bill Eplett,Berisiko,120,5,4204.68,1487.77
+BE-11410,Bobby Elias,Berisiko,99,5,2261.44,755.92
+BE-11455,Brad Eason,Berisiko,255,6,1727.65,139.2
+BF-10975,Barbara Fisher,Berisiko,92,7,599.8,227.44
+BF-11005,Barry Franz,Berisiko,40,4,1333.88,-291.38
+BF-11020,Barry Französisch,Bernilai Tinggi,75,8,2888.51,302.02
+BF-11080,Bart Folk,Hilang,26,3,272.95,110.93
+BF-11170,Ben Ferrer,Bernilai Tinggi,17,11,5907.97,1538.21
+BF-11215,Benjamin Farhat,Berisiko,66,4,1585.16,523.21
+BF-11275,Beth Fritzler,Berisiko,58,3,791.99,25.87
+BG-11035,Barry Gonzalez,Aktif,29,8,2798.95,-711.43
+BG-11695,Brooke Gillingham,Aktif,37,6,1874.17,107.57
+BG-11740,Bruce Geld,Berisiko,58,6,1006.36,119.35
+BH-11710,Brosina Hoffman,Bernilai Tinggi,24,8,6255.35,802.79
+BK-11260,Berenike Kampe,Berisiko,78,6,659.14,-63.76
+BM-11140,Becky Martin,Berisiko,309,4,11789.63,-1659.96
+BM-11575,Brendan Murry,Berisiko,101,6,808.16,95.58
+BM-11650,Brian Moss,Bernilai Tinggi,34,11,7294.18,2199.28
+BM-11785,Bryan Mills,Bernilai Tinggi,219,10,1338.84,137.74
+BN-11470,Brad Norvell,Hilang,25,4,265.3,36.61
+BN-11515,Bradley Nguyen,Aktif,10,5,1459.34,340.71
+BO-11350,Bill Overfelt,Berisiko,138,5,2682.73,278.78
+BO-11425,Bobby Odegard,Hilang,76,2,130.83,59.45
+BP-11050,Barry Pond,Berisiko,84,5,983.42,209.78
+BP-11095,Bart Pistole,Aktif,18,12,2442.04,433.98
+BP-11155,Becky Pak,Berisiko,90,6,1697.86,647.38
+BP-11185,Ben Peterman,Aktif,2,9,3675.86,363.6
+BP-11230,Benjamin Patterson,Aktif,40,5,1181.49,-197.27
+BP-11290,Beth Paige,Aktif,13,7,2475.16,-319.06
+BS-11365,Bill Shonely,Berisiko,560,5,10501.65,2616.06
+BS-11380,Bill Stewart,Aktif,29,5,3887.83,-17.53
+BS-11590,Brendan Sweed,Aktif,36,6,2454.93,381.78
+BS-11665,Brian Stugart,Berisiko,584,3,3288.11,238.74
+BS-11755,Bruce Stewart,Aktif,2,7,2562.38,-113.3
+BS-11800,Bryan Spruell,Hilang,266,2,949.43,194.05
+BT-11305,Beth Thompson,Berisiko,338,5,2567.66,417.59
+BT-11395,Bill Tyler,Berisiko,303,6,2186.61,257.92
+BT-11440,Bobby Trafton,Berisiko,562,4,603.88,-77.53
+BT-11485,Brad Thomas,Hilang,661,2,415.2,126.87
+BT-11530,Bradley Talbott,Berisiko,92,5,2684.49,409.5
+BT-11680,Brian Thompson,Aktif,21,7,3196.75,447.75
+BV-11245,Benjamin Venier,Berisiko,336,5,1523.27,315.22
+BW-11065,Barry Weirich,Hilang,213,3,385.52,-58.29
+BW-11110,Bart Watters,Bernilai Tinggi,122,8,4750.36,921.26
+BW-11200,Ben Wallace,Berisiko,204,6,1738.41,247.0
+CA-11965,Carol Adams,Bernilai Tinggi,97,6,3789.72,1143.38
+CA-12055,Cathy Armstrong,Berisiko,403,5,1679.72,211.26
+CA-12265,Christina Anderson,Bernilai Tinggi,57,9,2648.29,279.62
+CA-12310,Christine Abelman,Aktif,14,4,1421.95,246.02
+CA-12775,Cynthia Arntzen,Bernilai Tinggi,121,7,3041.57,204.49
+CB-12025,Cassandra Brandow,Bernilai Tinggi,48,10,6076.14,150.21
+CB-12415,Christy Brittain,Aktif,27,8,1949.2,272.39
+CB-12535,Claudia Bergmann,Bernilai Tinggi,198,8,4246.46,1049.56
+CC-12100,Chad Cunningham,Berisiko,459,6,1770.94,208.59
+CC-12145,Charles Crestani,Bernilai Tinggi,107,7,2471.65,392.28
+CC-12220,Chris Cortes,Bernilai Tinggi,21,12,3913.42,393.96
+CC-12370,Christopher Conant,Bernilai Tinggi,44,5,12129.07,2177.05
+CC-12430,Chuck Clark,Aktif,1,10,2870.05,424.66
+CC-12475,Cindy Chapman,Bernilai Tinggi,40,9,1659.44,154.85
+CC-12550,Clay Cheatham,Hilang,28,3,113.83,33.87
+CC-12610,Corey Catlett,Aktif,35,7,2540.63,331.43
+CC-12670,Craig Carreira,Aktif,30,7,2269.7,187.84
+CC-12685,Craig Carroll,Berisiko,800,4,2854.12,850.16
+CD-11920,Carlos Daly,Aktif,41,5,2033.97,426.66
+CD-11980,Carol Darley,Hilang,55,3,639.77,-206.72
+CD-12280,Christina DeMoss,Hilang,43,2,1205.58,233.03
+CD-12790,Cynthia Delaney,Berisiko,401,5,1860.73,403.84
+CG-12040,Catherine Glotzbach,Berisiko,50,6,904.47,86.51
+CG-12520,Claire Gute,Berisiko,340,3,1148.78,169.93
+CH-12070,Cathy Hwang,Berisiko,692,3,1537.24,195.15
+CJ-11875,Carl Jackson,Hilang,367,1,16.52,1.65
+CJ-12010,Caroline Jumper,Bernilai Tinggi,190,8,11164.97,858.74
+CK-12205,Chloris Kastensmidt,Bernilai Tinggi,40,13,3154.86,141.28
+CK-12325,Christine Kargatis,Berisiko,121,5,2945.32,261.22
+CK-12595,Clytie Kelty,Bernilai Tinggi,44,11,2372.75,497.71
+CK-12760,Cyma Kinney,Bernilai Tinggi,83,9,1582.11,-338.43
+CL-11890,Carl Ludwig,Berisiko,107,4,1262.01,328.08
+CL-12565,Clay Ludtke,Bernilai Tinggi,285,12,10880.55,1933.78
+CL-12700,Craig Leslie,Berisiko,106,5,2353.59,229.01
+CM-11815,Candace McMahon,Berisiko,132,6,1673.89,214.46
+CM-11935,Carlos Meador,Hilang,709,2,565.39,-43.73
+CM-12115,Chad McGuire,Aktif,9,4,1661.61,409.07
+CM-12160,Charles McCrossin,Aktif,27,6,2533.31,-394.37
+CM-12190,Charlotte Melton,Aktif,9,6,1475.14,91.2
+CM-12235,Chris McAfee,Berisiko,387,5,2305.71,365.04
+CM-12385,Christopher Martinez,Aktif,38,4,8954.02,3899.89
+CM-12445,Chuck Magee,Hilang,438,3,287.99,64.43
+CM-12655,Corinna Mitchell,Aktif,28,6,6339.56,1572.46
+CM-12715,Craig Molinari,Berisiko,1036,4,3984.45,176.31
+CP-12085,Cathy Prescott,Bernilai Tinggi,83,8,5402.25,427.03
+CP-12340,Christine Phan,Bernilai Tinggi,161,8,5888.28,-1850.3
+CR-12580,Clay Rozendal,Berisiko,58,4,2148.85,74.4
+CR-12625,Corey Roper,Hilang,472,3,475.9,144.76
+CR-12730,Craig Reiter,Berisiko,79,4,1600.55,306.92
+CR-12820,Cyra Reiten,Berisiko,86,3,1397.87,83.27
+CS-11845,Cari Sayre,Berisiko,92,5,1278.95,185.38
+CS-11860,Cari Schnelling,Berisiko,163,6,537.63,105.83
+CS-11950,Carlos Soltero,Bernilai Tinggi,26,11,3036.55,-126.42
+CS-12130,Chad Sievert,Berisiko,491,4,884.64,143.83
+CS-12175,Charles Sheldon,Berisiko,233,5,844.46,113.14
+CS-12250,Chris Selesnick,Bernilai Tinggi,27,12,2754.22,738.36
+CS-12355,Christine Sundaresam,Aktif,7,11,3202.16,831.94
+CS-12400,Christopher Schild,Aktif,3,9,3651.86,-342.8
+CS-12460,Chuck Sachs,Hilang,28,2,550.64,156.26
+CS-12490,Cindy Schnelling,Berisiko,426,4,1077.23,-302.88
+CS-12505,Cindy Stewart,Bernilai Tinggi,59,6,5690.05,-6626.39
+CT-11995,Carol Triggs,Bernilai Tinggi,97,8,3241.9,161.23
+CV-12295,Christina VanderZanden,Berisiko,255,5,2830.63,493.09
+CV-12805,Cynthia Voltz,Aktif,6,9,2370.31,99.0
+CW-11905,Carl Weiss,Aktif,23,6,1136.59,370.83
+CY-12745,Craig Yedwab,Bernilai Tinggi,61,8,2900.03,60.65
+Co-12640,Corey-Lock,Berisiko,551,5,1300.08,205.63
+DA-13450,Dianna Arnett,Hilang,354,4,156.76,56.79
+DB-12910,Daniel Byrd,Aktif,22,8,2171.6,431.37
+DB-12970,Darren Budd,Berisiko,242,5,2839.23,213.0
+DB-13060,Dave Brooks,Aktif,17,7,4531.65,473.03
+DB-13120,David Bremer,Bernilai Tinggi,49,7,2973.09,-1421.77
+DB-13210,Dean Braden,Aktif,10,10,2332.58,169.97
+DB-13270,Deborah Brumfield,Bernilai Tinggi,54,8,4655.9,841.83
+DB-13360,Dennis Bolton,Berisiko,265,5,1081.47,291.01
+DB-13405,Denny Blanton,Berisiko,188,4,1711.69,438.91
+DB-13555,Dorothy Badders,Bernilai Tinggi,108,7,3908.8,109.33
+DB-13615,Doug Bickford,Aktif,34,7,1989.05,438.8
+DB-13660,Duane Benoit,Aktif,13,7,1155.2,177.67
+DC-12850,Dan Campbell,Bernilai Tinggi,38,9,3336.17,-1441.63
+DC-13285,Debra Catini,Aktif,24,5,1174.62,132.07
+DD-13570,Dorothy Dickinson,Berisiko,42,6,269.54,36.43
+DE-13255,Deanra Eno,Berisiko,720,5,2550.87,464.47
+DF-13135,David Flashing,Berisiko,701,3,2390.53,-259.31
+DG-13300,Deirdre Greer,Aktif,33,5,3195.82,562.78
+DH-13075,Dave Hallsten,Bernilai Tinggi,278,6,4932.87,1193.74
+DH-13675,Duane Huffman,Berisiko,777,4,1043.1,116.67
+DJ-13420,Denny Joy,Berisiko,639,4,2012.52,483.04
+DJ-13510,Don Jones,Bernilai Tinggi,49,8,2501.69,345.25
+DJ-13630,Doug Jacobs,Aktif,13,3,3356.4,731.56
+DK-12835,Damala Kotsonis,Bernilai Tinggi,22,12,3256.48,881.12
+DK-12895,Dana Kaydos,Aktif,46,5,4282.18,937.65
+DK-12985,Darren Koutras,Aktif,8,5,1687.04,-107.35
+DK-13090,Dave Kipp,Bernilai Tinggi,43,7,2650.56,536.39
+DK-13150,David Kendrick,Hilang,11,2,797.83,249.94
+DK-13225,Dean Katz,Aktif,11,9,4802.39,209.9
+DK-13375,Dennis Kane,Aktif,20,8,3318.49,377.08
+DL-12865,Dan Lawera,Bernilai Tinggi,101,8,1503.11,322.24
+DL-12925,Daniel Lacy,Bernilai Tinggi,58,6,3272.2,4.21
+DL-13315,Delfina Latchford,Aktif,23,8,1458.26,288.87
+DL-13330,Denise Leinenbach,Berisiko,58,4,585.02,222.68
+DL-13495,Dionis Lloyd,Bernilai Tinggi,77,8,3539.32,-52.79
+DM-12955,Dario Medina,Berisiko,115,7,1322.03,108.76
+DM-13015,Darrin Martin,Bernilai Tinggi,58,7,6345.1,1677.39
+DM-13345,Denise Monton,Aktif,23,8,4074.47,1319.06
+DM-13525,Don Miller,Berisiko,483,3,1376.79,199.77
+DN-13690,Duane Noonan,Berisiko,218,7,2139.79,540.54
+DO-13435,Denny Ordway,Bernilai Tinggi,134,9,1300.03,-38.91
+DO-13645,Doug O'Connell,Aktif,27,7,1267.32,294.07
+DP-13000,Darren Powers,Bernilai Tinggi,127,9,1050.64,241.45
+DP-13105,Dave Poirier,Aktif,7,8,2215.0,563.18
+DP-13165,David Philippe,Hilang,813,2,1058.62,-40.94
+DP-13390,Dennis Pardue,Bernilai Tinggi,360,9,5480.72,1571.83
+DR-12880,Dan Reichenbach,Aktif,4,9,6528.03,1641.86
+DR-12940,Daniel Raglin,Bernilai Tinggi,51,8,8350.87,2869.08
+DS-13030,Darrin Sayre,Berisiko,94,4,1762.21,193.33
+DS-13180,David Smith,Aktif,24,9,2881.81,163.7
+DV-13045,Darrin Van Huff,Aktif,20,5,1119.48,-427.18
+DV-13465,Dianna Vittorini,Aktif,30,6,3341.59,353.21
+DW-13195,David Wiener,Berisiko,70,6,1080.75,-86.87
+DW-13480,Dianna Wilson,Berisiko,218,5,5271.63,1348.76
+DW-13540,Don Weiss,Berisiko,99,5,344.08,69.67
+DW-13585,Dorothy Wardle,Berisiko,243,7,1204.85,-266.9
+Dl-13600,Dorris liebe,Berisiko,120,5,755.6,175.24
+Dp-13240,Dean percer,Bernilai Tinggi,85,11,7198.76,333.36
+EA-14035,Erin Ashbrook,Bernilai Tinggi,153,13,2846.7,-52.74
+EB-13705,Ed Braxton,Bernilai Tinggi,49,9,3644.98,13.62
+EB-13750,Edward Becker,Bernilai Tinggi,36,10,3236.31,-80.29
+EB-13840,Ellis Ballard,Berisiko,91,5,4358.13,656.2
+EB-13870,Emily Burns,Bernilai Tinggi,101,10,2767.22,261.53
+EB-13930,Eric Barreto,Berisiko,162,5,944.6,0.6
+EB-13975,Erica Bern,Aktif,1,4,1643.26,162.88
+EB-14110,Eugene Barchas,Bernilai Tinggi,114,6,3071.13,184.77
+EB-14170,Evan Bailliet,Berisiko,83,6,1186.33,282.17
+EC-14050,Erin Creighton,Berisiko,54,5,461.91,96.43
+ED-13885,Emily Ducich,Bernilai Tinggi,136,8,3484.92,670.44
+EG-13900,Emily Grady,Aktif,23,5,1832.02,104.27
+EH-13765,Edward Hooks,Bernilai Tinggi,136,12,10310.88,1393.52
+EH-13945,Eric Hoffmann,Berisiko,218,8,684.17,53.54
+EH-13990,Erica Hackney,Berisiko,407,6,825.95,150.38
+EH-14005,Erica Hernandez,Aktif,3,7,1219.53,-94.14
+EH-14125,Eugene Hildebrand,Bernilai Tinggi,153,10,3082.65,96.27
+EH-14185,Evan Henry,Berisiko,106,6,923.88,242.11
+EJ-13720,Ed Jacobs,Berisiko,303,4,2162.17,387.02
+EJ-14155,Eva Jacobs,Berisiko,58,5,2656.69,451.88
+EK-13795,Eileen Kiefer,Berisiko,45,4,1303.48,97.11
+EL-13735,Ed Ludwig,Hilang,78,2,124.28,27.12
+EM-13810,Eleni McCrary,Berisiko,133,5,2567.01,-133.83
+EM-13825,Elizabeth Moffitt,Bernilai Tinggi,56,8,2339.6,682.55
+EM-13960,Eric Murdock,Berisiko,152,5,933.7,102.3
+EM-14065,Erin Mull,Hilang,48,4,228.99,40.15
+EM-14095,Eudokia Martin,Berisiko,114,4,1041.04,240.24
+EM-14140,Eugene Moren,Bernilai Tinggi,49,6,4588.44,1319.37
+EM-14200,Evan Minnotte,Hilang,159,3,366.82,21.77
+EN-13780,Edward Nazzal,Berisiko,288,4,2199.37,496.11
+EP-13915,Emily Phan,Bernilai Tinggi,13,17,5478.06,144.96
+ER-13855,Elpida Rittenbach,Berisiko,423,3,1245.79,-295.74
+ES-14020,Erica Smith,Aktif,41,5,3510.46,1003.29
+ES-14080,Erin Smith,Bernilai Tinggi,29,9,4657.92,246.67
+FA-14230,Frank Atkinson,Bernilai Tinggi,98,7,2984.05,520.52
+FC-14245,Frank Carlisle,Bernilai Tinggi,71,7,3418.74,1217.17
+FC-14335,Fred Chung,Bernilai Tinggi,185,7,3889.37,714.29
+FG-14260,Frank Gastineau,Aktif,35,7,1383.14,394.74
+FH-14275,Frank Hawley,Bernilai Tinggi,38,10,4256.27,1073.27
+FH-14350,Fred Harton,Berisiko,213,4,2271.28,706.29
+FH-14365,Fred Hopkins,Aktif,6,8,6987.2,2050.28
+FM-14215,Filia McAdams,Aktif,8,10,2456.64,249.68
+FM-14290,Frank Merwin,Bernilai Tinggi,37,9,3736.2,198.11
+FM-14380,Fred McMath,Bernilai Tinggi,146,9,2523.27,191.49
+FO-14305,Frank Olsen,Bernilai Tinggi,39,10,2678.44,215.6
+FP-14320,Frank Preis,Aktif,24,8,4046.75,406.45
+FW-14395,Fred Wasserman,Hilang,364,3,79.75,23.49
+GA-14515,George Ashbrook,Bernilai Tinggi,150,8,3919.78,840.9
+GA-14725,Guy Armstrong,Aktif,6,11,1398.38,136.71
+GB-14530,George Bell,Bernilai Tinggi,63,11,1568.44,7.84
+GB-14575,Giulietta Baptist,Aktif,14,5,4716.29,1135.84
+GD-14590,Giulietta Dortch,Aktif,6,4,1888.07,230.94
+GG-14650,Greg Guthrie,Bernilai Tinggi,44,9,2224.0,12.7
+GH-14410,Gary Hansen,Bernilai Tinggi,76,9,2819.47,-576.83
+GH-14425,Gary Hwang,Berisiko,51,4,4172.85,1176.42
+GH-14485,Gene Hale,Hilang,389,2,1361.24,-95.45
+GH-14665,Greg Hansen,Hilang,3,2,146.94,-5.81
+GK-14620,Grace Kelly,Bernilai Tinggi,113,9,6497.27,1448.55
+GM-14440,Gary McGarr,Bernilai Tinggi,84,7,3582.82,347.27
+GM-14455,Gary Mitchum,Aktif,17,6,3078.62,793.28
+GM-14500,Gene McClure,Bernilai Tinggi,107,10,1255.68,441.32
+GM-14680,Greg Matthias,Berisiko,153,6,3163.63,35.49
+GM-14695,Greg Maxwell,Berisiko,118,3,6049.97,188.72
+GP-14740,Guy Phonely,Hilang,766,2,236.53,31.84
+GR-14560,Georgia Rosenberg,Hilang,1136,2,1284.38,359.83
+GT-14635,Grant Thornton,Berisiko,57,3,9351.21,-4108.66
+GT-14710,Greg Tran,Bernilai Tinggi,37,11,11820.12,2163.43
+GT-14755,Guy Thornton,Hilang,35,4,226.44,-6.14
+GW-14605,Giulietta Weimer,Aktif,29,7,2189.02,-268.54
+GZ-14470,Gary Zandusky,Aktif,8,9,4355.15,1087.75
+GZ-14545,George Zrebassa,Berisiko,158,4,2454.62,828.66
+HA-14905,Helen Abelman,Bernilai Tinggi,70,7,2163.3,270.86
+HA-14920,Helen Andreada,Aktif,21,8,2584.16,99.14
+HD-14785,Harold Dahlen,Hilang,770,3,251.36,-135.88
+HE-14800,Harold Engle,Aktif,13,4,883.53,274.4
+HF-14995,Herbert Flentye,Aktif,22,7,2533.16,-13.88
+HG-14845,Harry Greene,Berisiko,55,5,785.63,147.0
+HG-14965,Henry Goldwyn,Bernilai Tinggi,24,12,3247.64,-2797.96
+HG-15025,Hunter Glantz,Aktif,7,7,3690.28,804.61
+HH-15010,Hilary Holden,Hilang,73,2,218.67,86.73
+HJ-14875,Heather Jas,Berisiko,127,5,358.1,98.65
+HK-14890,Heather Kirkland,Bernilai Tinggi,152,8,4877.78,956.95
+HL-15040,Hunter Lopez,Bernilai Tinggi,44,6,12873.3,5622.43
+HM-14860,Harry Marie,Aktif,3,10,8236.76,2437.98
+HM-14980,Henry MacAllister,Berisiko,248,4,736.28,117.28
+HP-14815,Harold Pawlan,Aktif,31,7,1990.31,373.86
+HR-14770,Hallie Redmond,Aktif,14,5,1299.29,185.58
+HR-14830,Harold Ryan,Bernilai Tinggi,160,7,5248.79,1196.95
+HW-14935,Helen Wasserman,Bernilai Tinggi,118,8,9300.25,2164.16
+HZ-14950,Henia Zydlo,Aktif,36,5,886.52,-130.39
+IG-15085,Ivan Gibson,Berisiko,72,4,744.57,320.5
+IL-15100,Ivan Liston,Bernilai Tinggi,143,7,5040.74,1121.94
+IM-15055,Ionia McGrath,Berisiko,411,3,2872.63,975.77
+IM-15070,Irene Maddox,Bernilai Tinggi,392,7,4930.47,514.65
+JA-15970,Joseph Airdo,Bernilai Tinggi,93,8,6491.03,-819.42
+JB-15400,Jennifer Braxton,Aktif,8,10,1791.6,156.05
+JB-15925,Joni Blumstein,Berisiko,738,3,900.55,-286.98
+JB-16000,Joy Bell-,Aktif,44,7,644.12,126.76
+JB-16045,Julia Barnett,Aktif,8,5,2518.12,201.52
+JC-15340,Jasper Cacioppo,Hilang,115,4,71.26,-0.36
+JC-15385,Jenna Caffey,Hilang,176,1,1058.11,502.92
+JC-15775,John Castell,Bernilai Tinggi,159,9,2772.06,279.57
+JC-16105,Julie Creighton,Berisiko,58,5,858.58,201.6
+JD-15790,John Dryer,Berisiko,118,5,2152.35,-266.55
+JD-15895,Jonathan Doherty,Bernilai Tinggi,396,11,7610.86,1050.27
+JD-16015,Joy Daniels,Berisiko,113,6,385.43,26.76
+JD-16060,Julia Dunbar,Hilang,301,3,695.44,111.11
+JD-16150,Justin Deggeller,Bernilai Tinggi,42,8,8828.03,1619.52
+JE-15475,Jeremy Ellison,Berisiko,194,6,1388.68,276.22
+JE-15610,Jim Epp,Bernilai Tinggi,49,7,7754.98,1623.4
+JE-15715,Joe Elijah,Bernilai Tinggi,47,10,8697.84,1262.29
+JE-15745,Joel Eaton,Bernilai Tinggi,52,13,6760.82,221.8
+JE-16165,Justin Ellison,Aktif,21,3,2697.25,789.65
+JF-15190,Jamie Frazer,Bernilai Tinggi,66,7,2279.59,575.13
+JF-15295,Jason Fortune-,Berisiko,226,5,955.12,97.29
+JF-15355,Jay Fein,Berisiko,106,6,1911.84,330.2
+JF-15415,Jennifer Ferguson,Aktif,3,6,2371.45,635.64
+JF-15490,Jeremy Farry,Bernilai Tinggi,122,11,1082.92,-18.07
+JF-15565,Jill Fjeld,Bernilai Tinggi,55,8,4198.33,1073.21
+JG-15115,Jack Garza,Berisiko,759,3,2358.68,684.19
+JG-15160,James Galang,Aktif,2,11,6366.39,1415.67
+JG-15310,Jason Gross,Aktif,3,6,2240.58,3.8
+JG-15805,John Grady,Berisiko,224,6,1507.02,206.1
+JH-15430,Jennifer Halladay,Aktif,6,4,309.28,-24.08
+JH-15820,John Huston,Berisiko,175,6,528.91,26.08
+JH-15910,Jonathan Howell,Aktif,42,7,959.48,-13.55
+JH-15985,Joseph Holt,Bernilai Tinggi,30,6,7955.0,-644.7
+JH-16180,Justin Hirsh,Berisiko,406,4,2256.39,-96.95
+JJ-15445,Jennifer Jackson,Berisiko,485,5,709.18,200.56
+JJ-15760,Joel Jenkins,Hilang,754,2,195.0,34.45
+JK-15205,Jamie Kunitz,Bernilai Tinggi,62,5,4427.14,1219.98
+JK-15325,Jason Klamczynski,Hilang,288,3,383.81,55.33
+JK-15370,Jay Kimmel,Bernilai Tinggi,45,8,2709.63,330.28
+JK-15625,Jim Karlsson,Bernilai Tinggi,62,7,3760.03,750.95
+JK-15640,Jim Kriz,Bernilai Tinggi,181,9,4760.43,1172.53
+JK-15730,Joe Kamberova,Bernilai Tinggi,85,10,4867.2,55.05
+JK-16090,Juliana Krohn,Aktif,29,3,3747.67,586.66
+JK-16120,Julie Kriz,Bernilai Tinggi,118,10,2932.48,122.66
+JL-15130,Jack Lebron,Aktif,9,6,1214.96,-207.8
+JL-15175,James Lanier,Aktif,7,5,1571.52,209.28
+JL-15235,Janet Lee,Berisiko,120,5,2203.7,54.52
+JL-15505,Jeremy Lonsdale,Bernilai Tinggi,50,6,3173.87,591.72
+JL-15835,John Lee,Bernilai Tinggi,22,11,9799.92,228.91
+JL-15850,John Lucas,Berisiko,616,6,2725.26,779.9
+JM-15250,Janet Martin,Aktif,38,6,3159.12,19.82
+JM-15265,Janet Molinari,Aktif,38,5,1804.15,502.61
+JM-15535,Jessica Myrick,Bernilai Tinggi,103,7,1733.44,356.54
+JM-15580,Jill Matthias,Aktif,1,5,303.95,113.12
+JM-15655,Jim Mitchum,Aktif,9,5,864.95,117.2
+JM-15865,John Murray,Bernilai Tinggi,110,7,7625.08,1574.62
+JM-16195,Justin MacKendrick,Bernilai Tinggi,58,10,2833.93,754.11
+JO-15145,Jack O'Briant,Bernilai Tinggi,58,9,3254.95,581.4
+JO-15280,Jas O'Carroll,Berisiko,93,6,1934.27,202.14
+JO-15550,Jesus Ocampo,Berisiko,216,5,1090.84,167.67
+JP-15460,Jennifer Patt,Aktif,38,7,1669.14,429.75
+JP-15520,Jeremy Pistek,Aktif,9,7,3635.59,757.18
+JP-16135,Julie Prescott,Bernilai Tinggi,103,9,1707.71,309.71
+JR-15670,Jim Radford,Hilang,595,2,1156.66,-785.16
+JR-15700,Jocasta Rupert,Hilang,69,1,863.88,107.98
+JR-16210,Justin Ritter,Aktif,34,5,2201.69,452.37
+JS-15595,Jill Stevenson,Berisiko,120,4,1417.65,-175.55
+JS-15685,Jim Sink,Berisiko,43,4,1131.06,-54.87
+JS-15880,John Stevenson,Berisiko,536,5,3868.02,564.98
+JS-15940,Joni Sundaresam,Berisiko,465,5,469.17,-327.93
+JS-16030,Joy Smith,Aktif,29,6,2516.49,-311.26
+JW-15220,Jane Waco,Bernilai Tinggi,43,6,7721.71,2173.71
+JW-15955,Joni Wasserman,Aktif,6,7,1244.09,-29.58
+JW-16075,Julia West,Berisiko,463,4,1428.73,154.06
+KA-16525,Kelly Andreada,Aktif,37,7,1519.51,234.92
+KB-16240,Karen Bern,Aktif,5,7,3152.62,763.91
+KB-16315,Karl Braun,Bernilai Tinggi,297,9,1569.46,49.72
+KB-16405,Katrina Bavinger,Berisiko,118,3,908.82,274.3
+KB-16585,Ken Black,Bernilai Tinggi,231,12,2744.74,579.36
+KB-16600,Ken Brennan,Aktif,2,7,983.92,293.55
+KC-16255,Karen Carlisle,Berisiko,409,6,2120.95,846.12
+KC-16540,Kelly Collister,Berisiko,98,4,3908.26,709.42
+KC-16675,Kimberly Carter,Berisiko,58,4,1146.05,156.78
+KD-16270,Karen Daniels,Berisiko,486,5,8282.36,1107.7
+KD-16345,Katherine Ducich,Aktif,42,6,1888.96,328.59
+KD-16495,Keith Dawkins,Bernilai Tinggi,113,12,8181.26,3038.63
+KD-16615,Ken Dana,Berisiko,290,5,2243.51,539.72
+KE-16420,Katrina Edelman,Aktif,27,8,1686.73,397.88
+KF-16285,Karen Ferguson,Bernilai Tinggi,98,7,10604.27,1660.14
+KH-16330,Katharine Harms,Bernilai Tinggi,41,8,3312.86,454.79
+KH-16360,Katherine Hughes,Aktif,2,6,3100.61,528.21
+KH-16510,Keith Herrera,Aktif,23,7,5952.86,656.12
+KH-16630,Ken Heidel,Bernilai Tinggi,59,9,3918.97,727.38
+KH-16690,Kristen Hastings,Aktif,3,7,5990.8,1227.51
+KL-16555,Kelly Lampkin,Aktif,17,8,5016.49,-182.78
+KL-16645,Ken Lonsdale,Bernilai Tinggi,48,12,14175.23,806.85
+KM-16225,Kalyca Meade,Aktif,15,6,2260.96,635.11
+KM-16375,Katherine Murray,Bernilai Tinggi,57,8,5620.19,973.79
+KM-16660,Khloe Miller,Aktif,16,5,453.54,91.14
+KM-16720,Kunst Miller,Bernilai Tinggi,29,8,4909.47,745.77
+KN-16390,Katherine Nockton,Aktif,20,9,2617.27,-151.15
+KN-16450,Kean Nguyen,Berisiko,53,5,2171.96,114.31
+KN-16705,Kristina Nunn,Bernilai Tinggi,99,8,2280.58,329.76
+KS-16300,Karen Seio,Hilang,296,3,88.47,0.11
+KT-16465,Kean Takahito,Berisiko,393,7,3057.1,254.0
+KT-16480,Kean Thornton,Bernilai Tinggi,101,10,4642.09,194.07
+KW-16435,Katrina Willman,Berisiko,97,5,4416.52,1756.14
+KW-16570,Kelly Williams,Hilang,772,4,449.1,107.93
+LA-16780,Laura Armstrong,Bernilai Tinggi,155,11,8673.22,2059.12
+LB-16735,Larry Blacks,Hilang,49,3,50.19,18.65
+LB-16795,Laurel Beltran,Bernilai Tinggi,153,8,4704.3,-40.13
+LC-16870,Lena Cacioppo,Aktif,28,8,2580.7,-188.25
+LC-16885,Lena Creighton,Bernilai Tinggi,17,12,7663.13,1288.35
+LC-16930,Linda Cazamias,Bernilai Tinggi,42,8,4492.95,288.27
+LC-16960,Lindsay Castell,Berisiko,438,4,3246.63,299.48
+LC-17050,Liz Carlisle,Berisiko,55,5,2095.06,86.78
+LC-17140,Logan Currie,Aktif,14,9,2633.58,231.13
+LD-16855,Lela Donovan,Hilang,554,1,5.3,0.46
+LD-17005,Lisa DeCherney,Berisiko,416,4,1961.93,557.17
+LE-16810,Laurel Elliston,Aktif,22,6,1469.45,161.76
+LF-17185,Luke Foster,Aktif,23,7,3930.51,-3583.98
+LH-16750,Larry Hughes,Hilang,152,3,287.43,12.63
+LH-16900,Lena Hernandez,Aktif,22,9,2295.33,526.07
+LH-17020,Lisa Hazard,Hilang,240,4,318.24,-242.74
+LH-17155,Logan Haushalter,Bernilai Tinggi,387,9,1739.69,316.52
+LL-16840,Lauren Leatherbury,Berisiko,250,6,2741.2,560.01
+LM-17065,Liz MacKendrick,Berisiko,393,5,1346.77,-44.88
+LO-17170,Lori Olson,Aktif,3,5,644.35,150.17
+LP-17080,Liz Pelletier,Berisiko,41,4,756.61,110.78
+LP-17095,Liz Preis,Aktif,10,7,3653.4,338.45
+LR-16915,Lena Radford,Aktif,27,6,5142.89,535.48
+LR-17035,Lisa Ryan,Berisiko,133,5,1879.31,-382.81
+LS-16945,Linda Southworth,Berisiko,179,6,2845.27,-318.77
+LS-16975,Lindsay Shagiari,Aktif,21,9,2988.67,262.64
+LS-17200,Luke Schmidt,Berisiko,97,6,1010.26,244.2
+LS-17230,Lycoris Saunders,Hilang,778,3,368.88,39.2
+LS-17245,Lynn Smith,Aktif,35,6,1008.14,348.36
+LT-16765,Larry Tron,Hilang,27,3,329.88,59.04
+LT-17110,Liz Thompson,Bernilai Tinggi,35,8,2936.25,320.97
+LW-16825,Laurel Workman,Berisiko,89,5,2238.06,32.58
+LW-16990,Lindsay Williams,Aktif,34,6,3230.31,662.83
+LW-17125,Liz Willingham,Berisiko,206,3,1259.04,192.63
+LW-17215,Luke Weiss,Aktif,22,7,5420.51,837.24
+MA-17560,Matt Abelman,Bernilai Tinggi,65,11,4299.16,1240.23
+MA-17995,Michelle Arnett,Berisiko,187,6,2453.28,280.78
+MB-17305,Maria Bertelson,Bernilai Tinggi,49,10,1548.7,212.42
+MB-18085,Mick Brown,Aktif,45,7,1428.23,117.81
+MC-17275,Marc Crier,Bernilai Tinggi,77,8,2725.98,461.0
+MC-17425,Mark Cousins,Berisiko,401,5,4432.14,1802.39
+MC-17575,Matt Collins,Aktif,28,8,1303.89,210.75
+MC-17590,Matt Collister,Bernilai Tinggi,52,6,2426.07,288.98
+MC-17605,Matt Connell,Bernilai Tinggi,113,8,2258.19,195.45
+MC-17635,Matthew Clasen,Berisiko,190,4,795.15,-247.94
+MC-17845,Michael Chen,Aktif,2,7,3805.71,698.42
+MC-18100,Mick Crebagga,Bernilai Tinggi,42,10,2218.98,-64.17
+MC-18130,Mike Caudle,Berisiko,371,5,1582.0,121.76
+MD-17350,Maribeth Dona,Bernilai Tinggi,118,7,3766.38,-241.95
+MD-17860,Michael Dominguez,Aktif,37,5,1204.91,-4.04
+ME-17320,Maria Etezadi,Bernilai Tinggi,43,10,10663.73,1859.47
+ME-17725,Max Engle,Aktif,29,8,1908.45,77.81
+ME-18010,Michelle Ellison,Berisiko,93,4,1256.94,107.36
+MF-17665,Maureen Fritzler,Berisiko,423,5,937.04,-341.53
+MF-18250,Monica Federle,Aktif,8,5,1758.3,456.86
+MG-17650,Matthew Grinstein,Aktif,30,7,3785.28,341.9
+MG-17680,Maureen Gastineau,Berisiko,93,4,2350.19,25.89
+MG-17695,Maureen Gnade,Berisiko,557,3,1342.28,-398.79
+MG-17875,Michael Grace,Berisiko,117,5,1242.83,-470.77
+MG-17890,Michael Granlund,Bernilai Tinggi,100,9,776.38,171.74
+MG-18145,Mike Gockenbach,Berisiko,85,4,3061.54,-93.6
+MG-18205,Mitch Gastineau,Hilang,265,1,16.74,-1.25
+MH-17290,Marc Harrigan,Berisiko,120,6,2394.02,28.76
+MH-17440,Mark Haberlin,Hilang,378,4,400.02,61.43
+MH-17455,Mark Hamilton,Bernilai Tinggi,86,8,2456.18,484.77
+MH-17620,Matt Hagelstein,Berisiko,156,4,1252.8,122.36
+MH-17785,Maya Herman,Bernilai Tinggi,99,7,2203.78,238.56
+MH-18025,Michelle Huthwaite,Aktif,50,5,2984.95,476.9
+MH-18115,Mick Hernandez,Aktif,6,9,5503.09,170.97
+MJ-17740,Max Jones,Aktif,23,7,6320.75,1054.55
+MK-17905,Michael Kennedy,Aktif,29,8,2302.37,-405.36
+MK-18160,Mike Kennedy,Berisiko,241,4,1031.6,227.83
+ML-17395,Marina Lichtenstein,Bernilai Tinggi,70,9,2722.84,684.92
+ML-17410,Maris LaWare,Bernilai Tinggi,55,6,2921.5,-76.18
+ML-17755,Max Ludwig,Aktif,30,7,2071.91,409.51
+ML-18040,Michelle Lonsdale,Hilang,80,3,742.08,138.72
+ML-18265,Muhammed Lee,Hilang,101,2,162.23,42.66
+MM-17260,Magdelene Morse,Berisiko,169,4,1314.02,178.4
+MM-17920,Michael Moore,Aktif,8,11,3794.08,82.13
+MM-18055,Michelle Moray,Bernilai Tinggi,62,8,2749.88,-520.34
+MM-18280,Muhammed MacIntyre,Bernilai Tinggi,86,9,775.41,58.89
+MN-17935,Michael Nguyen,Aktif,35,6,2477.95,290.82
+MO-17500,Mary O'Rourke,Berisiko,73,4,922.49,59.36
+MO-17800,Meg O'Connel,Bernilai Tinggi,105,8,1687.03,169.34
+MO-17950,Michael Oakman,Hilang,181,2,154.29,-82.01
+MP-17470,Mark Packer,Berisiko,720,7,3206.13,600.29
+MP-17965,Michael Paige,Bernilai Tinggi,73,9,3983.64,638.16
+MP-18175,Mike Pelletier,Aktif,17,9,5087.92,226.45
+MR-17545,Mathew Reese,Berisiko,126,4,639.18,162.94
+MS-17365,Maribeth Schnelling,Bernilai Tinggi,274,10,7443.69,844.94
+MS-17530,MaryBeth Skach,Hilang,436,4,475.66,84.03
+MS-17710,Maurice Satty,Berisiko,415,6,1613.4,247.43
+MS-17770,Maxwell Schwartz,Bernilai Tinggi,122,9,3144.68,280.86
+MS-17830,Melanie Seite,Hilang,454,4,370.35,19.43
+MS-17980,Michael Stewart,Aktif,27,6,855.12,55.23
+MT-17815,Meg Tillman,Bernilai Tinggi,50,6,2890.14,509.01
+MT-18070,Michelle Tran,Berisiko,204,4,1319.45,-23.68
+MV-17485,Mark Van Huff,Aktif,28,9,1560.05,189.03
+MV-18190,Mike Vittorini,Aktif,20,7,1734.57,273.86
+MW-18220,Mitch Webber,Aktif,18,7,5341.9,1238.42
+MW-18235,Mitch Willingham,Berisiko,45,2,5253.88,1665.52
+MY-17380,Maribeth Yedwab,Aktif,30,7,2254.28,319.12
+MY-18295,Muhammed Yedwab,Bernilai Tinggi,72,11,4152.7,-371.71
+MZ-17335,Maria Zettner,Berisiko,31,4,593.61,85.02
+MZ-17515,Mary Zewe,Berisiko,283,6,2564.91,787.75
+NB-18580,Nicole Brennan,Hilang,1166,2,273.87,24.79
+NB-18655,Nona Balk,Aktif,20,9,1972.6,117.64
+NC-18340,Nat Carroll,Berisiko,225,5,2461.4,580.31
+NC-18415,Nathan Cano,Aktif,42,6,2218.99,-2204.81
+NC-18535,Nick Crebassa,Aktif,7,7,8241.74,1314.76
+NC-18625,Noah Childs,Berisiko,205,5,1821.74,-359.02
+ND-18370,Natalie DeCherney,Bernilai Tinggi,28,9,4326.14,353.65
+ND-18460,Neil Ducich,Berisiko,184,6,2893.46,443.34
+NF-18385,Natalie Fritzler,Bernilai Tinggi,80,7,8322.83,-1695.97
+NF-18475,Neil Französisch,Hilang,527,4,377.16,85.93
+NF-18595,Nicole Fjeld,Bernilai Tinggi,115,7,2031.47,388.21
+NG-18355,Nat Gilpin,Berisiko,49,5,1869.58,313.63
+NG-18430,Nathan Gelder,Berisiko,49,5,1395.94,217.09
+NH-18610,Nicole Hansen,Bernilai Tinggi,190,7,2673.29,760.17
+NK-18490,Neil Knudson,Berisiko,71,7,572.05,121.22
+NL-18310,Nancy Lomonaco,Berisiko,59,4,1418.09,343.64
+NM-18445,Nathan Mautz,Bernilai Tinggi,161,7,6459.34,2751.68
+NM-18520,Neoma Murray,Bernilai Tinggi,245,10,2161.98,788.95
+NP-18325,Naresj Patel,Aktif,26,6,5529.62,1208.89
+NP-18670,Nora Paige,Bernilai Tinggi,59,5,3908.4,514.6
+NP-18685,Nora Pelletier,Berisiko,408,6,1228.7,514.5
+NP-18700,Nora Preis,Bernilai Tinggi,139,7,7903.18,631.23
+NR-18550,Nick Radford,Berisiko,211,5,2367.28,-25.15
+NS-18505,Neola Schneider,Aktif,7,4,2575.86,-12.3
+NS-18640,Noel Staavos,Bernilai Tinggi,175,13,2964.82,-234.77
+NW-18400,Natalie Webber,Bernilai Tinggi,173,7,7234.01,1023.12
+NZ-18565,Nick Zandusky,Bernilai Tinggi,86,9,2488.31,402.42
+ON-18715,Odella Nelson,Bernilai Tinggi,412,9,1567.52,-5.89
+OT-18730,Olvera Toch,Berisiko,66,5,3818.62,-925.12
+PA-19060,Pete Armstrong,Berisiko,104,6,729.41,225.86
+PB-18805,Patrick Bzostek,Hilang,26,3,740.36,229.23
+PB-19105,Peter Bühler,Berisiko,58,4,688.32,218.16
+PB-19150,Philip Brown,Bernilai Tinggi,98,8,1456.95,280.66
+PB-19210,Phillip Breyer,Hilang,689,2,132.74,21.9
+PC-18745,Pamela Coakley,Aktif,3,4,1832.06,272.68
+PC-19000,Pauline Chand,Hilang,883,2,1061.49,-184.34
+PF-19120,Peter Fuller,Berisiko,836,4,9062.86,-614.29
+PF-19165,Philip Fox,Berisiko,197,6,2770.0,196.87
+PF-19225,Phillip Flathmann,Berisiko,115,5,2206.13,591.31
+PG-18820,Patrick Gardner,Bernilai Tinggi,37,13,3086.91,137.46
+PG-18895,Paul Gonzalez,Bernilai Tinggi,58,9,1987.16,334.52
+PH-18790,Patricia Hirasaki,Hilang,71,1,729.65,47.89
+PJ-18835,Patrick Jones,Aktif,40,8,1220.09,442.14
+PJ-19015,Pauline Johnson,Berisiko,135,7,1824.23,683.0
+PK-18910,Paul Knutson,Hilang,485,2,1441.15,-798.7
+PK-19075,Pete Kriz,Bernilai Tinggi,10,12,8646.93,2038.27
+PL-18925,Paul Lucas,Aktif,16,5,239.48,-0.75
+PM-18940,Paul MacIntyre,Berisiko,388,3,1405.4,157.88
+PM-19135,Peter McVee,Berisiko,52,4,4115.66,526.75
+PN-18775,Parhena Norris,Aktif,31,8,1467.15,192.04
+PO-18850,Patrick O'Brill,Aktif,5,11,7473.83,38.48
+PO-18865,Patrick O'Donnell,Aktif,1,7,2493.21,437.85
+PO-19180,Philisse Overcash,Bernilai Tinggi,161,9,4893.04,1155.43
+PO-19195,Phillina Ober,Berisiko,87,5,1056.86,-49.7
+PP-18955,Paul Prost,Bernilai Tinggi,98,10,7252.61,1495.09
+PR-18880,Patrick Ryan,Aktif,37,5,1840.18,247.62
+PS-18760,Pamela Stobb,Berisiko,108,6,2181.48,-134.44
+PS-18970,Paul Stevenson,Bernilai Tinggi,70,8,1278.64,198.51
+PS-19045,Penelope Sewall,Bernilai Tinggi,237,7,6843.63,1742.73
+PT-19090,Pete Takahito,Hilang,72,4,160.57,-20.05
+PV-18985,Paul Van Hugh,Berisiko,90,5,2876.05,434.53
+PW-19030,Pauline Webber,Bernilai Tinggi,47,10,3454.92,803.82
+PW-19240,Pierre Wener,Bernilai Tinggi,466,7,3922.42,1290.35
+QJ-19255,Quincy Jones,Bernilai Tinggi,26,9,6108.34,1203.68
+RA-19285,Ralph Arnett,Aktif,6,9,2617.91,546.09
+RA-19885,Ruben Ausman,Bernilai Tinggi,44,7,3832.31,1292.87
+RA-19915,Russell Applegate,Aktif,13,9,4793.54,304.87
+RA-19945,Ryan Akin,Berisiko,62,5,1686.92,-445.7
+RB-19330,Randy Bradley,Hilang,69,2,1008.2,-164.41
+RB-19360,Raymond Buch,Bernilai Tinggi,97,6,15117.34,6976.1
+RB-19435,Richard Bierner,Aktif,20,8,2663.09,477.24
+RB-19465,Rick Bensley,Aktif,10,12,4715.47,640.55
+RB-19570,Rob Beeghly,Aktif,26,5,528.55,76.89
+RB-19645,Robert Barroso,Hilang,650,5,221.08,72.68
+RB-19705,Roger Barcio,Berisiko,55,4,2067.45,243.08
+RB-19795,Ross Baird,Bernilai Tinggi,33,8,5633.32,-461.73
+RC-19825,Roy Collins,Berisiko,371,6,966.41,63.99
+RC-19960,Ryan Crowe,Berisiko,111,6,885.75,10.56
+RD-19480,Rick Duston,Bernilai Tinggi,73,8,4272.93,480.59
+RD-19585,Rob Dowd,Bernilai Tinggi,181,10,2912.89,734.52
+RD-19660,Robert Dilbeck,Berisiko,115,5,2786.63,835.77
+RD-19720,Roger Demir,Aktif,22,10,1419.74,207.33
+RD-19810,Ross DeVincentis,Aktif,15,8,1137.62,318.46
+RD-19900,Ruben Dartt,Bernilai Tinggi,115,9,3133.92,455.53
+RD-19930,Russell D'Ascenzo,Berisiko,43,4,970.94,35.06
+RE-19405,Ricardo Emerson,Hilang,1098,1,48.36,6.04
+RE-19450,Richard Eichhorn,Berisiko,303,5,876.7,209.23
+RF-19345,Randy Ferguson,Bernilai Tinggi,392,8,3309.15,633.71
+RF-19735,Roland Fjeld,Bernilai Tinggi,90,7,2341.3,711.62
+RF-19840,Roy Französisch,Aktif,7,8,945.22,280.03
+RH-19495,Rick Hansen,Aktif,33,5,3621.38,563.79
+RH-19510,Rick Huthwaite,Bernilai Tinggi,469,6,6979.18,1289.45
+RH-19555,Ritsa Hightower,Hilang,521,2,740.38,0.31
+RH-19600,Rob Haberlin,Berisiko,536,3,2085.74,172.63
+RK-19300,Ralph Kennedy,Berisiko,120,3,1460.19,269.69
+RL-19615,Rob Lucas,Bernilai Tinggi,122,8,6234.91,488.15
+RM-19375,Raymond Messe,Berisiko,347,6,1453.47,392.15
+RM-19675,Robert Marley,Aktif,7,5,5979.1,1902.54
+RM-19750,Roland Murray,Hilang,300,1,98.35,28.69
+RO-19780,Rose O'Brian,Bernilai Tinggi,36,7,3815.48,-1262.57
+RP-19270,Rachel Payne,Berisiko,498,4,954.65,59.54
+RP-19390,Resi Pölking,Bernilai Tinggi,34,12,5153.08,465.25
+RP-19855,Roy Phan,Aktif,29,8,2170.72,594.59
+RR-19315,Ralph Ritter,Hilang,20,2,615.93,-73.83
+RR-19525,Rick Reed,Berisiko,171,6,3302.26,721.68
+RS-19420,Ricardo Sperren,Berisiko,77,5,3221.29,633.45
+RS-19765,Roland Schwarz,Bernilai Tinggi,37,8,4159.77,1206.39
+RS-19870,Roy Skaria,Hilang,20,2,22.33,9.58
+RW-19540,Rick Wilson,Bernilai Tinggi,121,7,7397.4,1586.63
+RW-19630,Rob Williams,Bernilai Tinggi,90,9,3279.75,698.83
+RW-19690,Robert Waldorf,Berisiko,80,5,3495.65,707.55
+SA-20830,Sue Ann Reed,Bernilai Tinggi,64,10,4767.34,610.15
+SB-20170,Sarah Bern,Berisiko,202,3,1348.02,157.67
+SB-20185,Sarah Brown,Bernilai Tinggi,189,6,6411.0,885.46
+SB-20290,Sean Braxton,Bernilai Tinggi,48,7,8057.89,-2082.75
+SC-20020,Sam Craven,Berisiko,782,5,3362.96,-317.05
+SC-20050,Sample Company A,Bernilai Tinggi,41,9,4624.57,1011.74
+SC-20095,Sanjit Chand,Bernilai Tinggi,351,9,14142.33,5757.41
+SC-20230,Scot Coram,Berisiko,150,4,4371.96,440.14
+SC-20260,Scott Cohen,Bernilai Tinggi,188,8,3729.79,671.0
+SC-20305,Sean Christensen,Aktif,30,7,3979.06,229.16
+SC-20380,Shahid Collister,Bernilai Tinggi,31,9,5992.54,236.66
+SC-20440,Shaun Chance,Aktif,37,7,1875.0,379.56
+SC-20575,Sonia Cooley,Berisiko,93,5,902.73,100.23
+SC-20680,Steve Carroll,Berisiko,127,6,1254.64,370.16
+SC-20695,Steve Chapman,Bernilai Tinggi,90,10,2576.41,611.83
+SC-20725,Steven Cartwright,Bernilai Tinggi,188,11,5226.21,1276.65
+SC-20770,Stewart Carmichael,Bernilai Tinggi,42,7,4492.66,-671.19
+SC-20800,Stuart Calhoun,Hilang,31,4,279.26,51.83
+SC-20845,Sung Chung,Hilang,132,2,280.63,31.18
+SD-20485,Shirley Daniels,Bernilai Tinggi,201,9,6121.11,1985.17
+SE-20110,Sanjit Engle,Bernilai Tinggi,10,11,12209.44,2650.68
+SF-20065,Sandra Flanagan,Berisiko,60,7,763.55,228.16
+SF-20200,Sarah Foster,Bernilai Tinggi,60,9,3422.79,286.9
+SF-20965,Sylvia Foulston,Bernilai Tinggi,49,9,3336.54,539.94
+SG-20080,Sandra Glassco,Aktif,9,3,3406.58,570.44
+SG-20470,Sheri Gordon,Bernilai Tinggi,184,8,1884.8,-119.01
+SG-20605,Speros Goranitis,Bernilai Tinggi,109,6,3124.83,463.27
+SG-20890,Susan Gilcrest,Hilang,227,3,47.95,-3.71
+SH-19975,Sally Hughsby,Bernilai Tinggi,30,13,3406.84,558.47
+SH-20395,Shahid Hopkins,Aktif,24,10,2180.72,-144.52
+SH-20635,Stefanie Holloman,Berisiko,766,2,2096.39,260.63
+SJ-20125,Sanjit Jacobs,Bernilai Tinggi,96,12,3949.66,144.12
+SJ-20215,Sarah Jordon,Aktif,30,6,1341.04,-23.51
+SJ-20500,Shirley Jackson,Berisiko,254,5,1318.78,68.1
+SK-19990,Sally Knutson,Aktif,9,3,883.41,168.79
+SL-20155,Sara Luxemburg,Bernilai Tinggi,71,7,3053.01,527.97
+SM-20005,Sally Matthias,Hilang,423,4,244.49,-26.59
+SM-20320,Sean Miller,Bernilai Tinggi,80,5,25043.05,-1980.74
+SM-20905,Susan MacKendrick,Hilang,608,1,1043.04,-237.29
+SM-20950,Suzanne McNair,Bernilai Tinggi,26,12,5563.39,581.57
+SN-20560,Skye Norling,Berisiko,112,6,1860.42,-716.86
+SN-20710,Steve Nguyen,Bernilai Tinggi,80,7,3127.96,481.75
+SO-20335,Sean O'Donnell,Aktif,30,6,2602.58,-81.09
+SP-20545,Sibella Parks,Berisiko,329,6,1306.09,-118.78
+SP-20620,Stefania Perrino,Bernilai Tinggi,48,9,5440.32,-270.43
+SP-20650,Stephanie Phelps,Bernilai Tinggi,388,9,1872.44,268.48
+SP-20860,Sung Pak,Bernilai Tinggi,80,10,4282.94,566.72
+SP-20920,Susan Pistek,Bernilai Tinggi,71,6,3990.69,14.69
+SR-20425,Sharelle Roach,Aktif,9,5,3233.48,-3333.91
+SR-20740,Steven Roelle,Bernilai Tinggi,197,8,4345.89,1990.42
+SS-20140,Saphhira Shifley,Aktif,16,8,1324.03,332.35
+SS-20410,Shahid Shariari,Bernilai Tinggi,111,6,3056.81,-1010.97
+SS-20515,Shirley Schmidt,Hilang,493,3,613.4,199.93
+SS-20590,Sonia Sunley,Berisiko,434,6,418.49,135.54
+SS-20875,Sung Shariari,Berisiko,121,5,964.64,-75.59
+ST-20530,Shui Tom,Berisiko,126,7,433.34,84.44
+SU-20665,Stephanie Ulpright,Aktif,21,7,2595.36,763.47
+SV-20365,Seth Vernon,Bernilai Tinggi,102,10,11470.95,1199.42
+SV-20785,Stewart Visinsky,Bernilai Tinggi,322,9,4105.3,485.03
+SV-20815,Stuart Van,Berisiko,77,4,1271.09,199.65
+SV-20935,Susan Vittorini,Aktif,3,8,1903.49,106.89
+SW-20245,Scot Wooten,Berisiko,82,7,1085.08,-19.61
+SW-20275,Scott Williamson,Aktif,31,6,1966.65,332.87
+SW-20350,Sean Wendt,Berisiko,163,3,1019.04,95.84
+SW-20455,Shaun Weien,Bernilai Tinggi,163,7,2921.54,793.65
+SW-20755,Steven Ward,Hilang,536,2,758.7,68.24
+SZ-20035,Sam Zeldin,Bernilai Tinggi,36,11,3625.33,366.43
+TA-21385,Tom Ashbrook,Bernilai Tinggi,70,4,14595.62,4703.79
+TB-21055,Ted Butterfield,Berisiko,120,5,1467.88,390.21
+TB-21175,Thomas Boland,Berisiko,59,4,3589.3,829.16
+TB-21190,Thomas Brumley,Berisiko,50,4,816.17,179.0
+TB-21250,Tim Brockman,Berisiko,351,7,1602.38,260.62
+TB-21280,Toby Braunhardt,Berisiko,585,6,2198.45,490.96
+TB-21355,Todd Boyes,Berisiko,147,5,834.33,268.97
+TB-21400,Tom Boeckenhauer,Bernilai Tinggi,203,7,9133.99,2798.37
+TB-21520,Tracy Blumstein,Bernilai Tinggi,108,9,4737.49,-1603.05
+TB-21595,Troy Blackwell,Berisiko,286,5,1387.56,-136.41
+TB-21625,Trudy Brown,Bernilai Tinggi,31,9,2797.67,379.88
+TC-20980,Tamara Chand,Bernilai Tinggi,401,5,19052.22,8981.32
+TC-21145,Theresa Coyne,Hilang,107,1,1038.26,265.53
+TC-21295,Toby Carlisle,Bernilai Tinggi,28,8,4266.81,606.37
+TC-21475,Tony Chapman,Bernilai Tinggi,154,9,1244.98,119.1
+TC-21535,Tracy Collins,Aktif,5,7,742.56,217.93
+TD-20995,Tamara Dahlen,Aktif,38,9,1434.55,88.19
+TG-21310,Toby Gnade,Berisiko,339,5,3058.37,682.17
+TG-21640,Trudy Glocke,Berisiko,115,4,2074.66,365.72
+TH-21100,Thea Hendricks,Berisiko,346,5,2422.82,-135.21
+TH-21115,Thea Hudgings,Berisiko,59,4,2942.77,-252.55
+TH-21235,Tiffany House,Berisiko,118,8,1022.2,92.73
+TH-21550,Tracy Hopkins,Bernilai Tinggi,73,7,4234.1,-571.97
+TM-21010,Tamara Manning,Bernilai Tinggi,104,8,2955.23,573.3
+TM-21490,Tony Molinari,Berisiko,131,3,1094.68,292.52
+TN-21040,Tanja Norvell,Bernilai Tinggi,91,7,3130.22,-692.05
+TP-21130,Theone Pippenger,Aktif,9,9,4454.06,1129.13
+TP-21415,Tom Prescott,Bernilai Tinggi,105,5,5329.0,-1087.39
+TP-21565,Tracy Poddar,Berisiko,352,4,1936.64,139.23
+TR-21325,Toby Ritter,Berisiko,194,5,675.94,220.36
+TS-21085,Thais Sissman,Hilang,359,2,4.83,-3.32
+TS-21160,Theresa Swint,Berisiko,506,6,2163.62,260.87
+TS-21205,Thomas Seio,Bernilai Tinggi,199,7,5371.09,862.89
+TS-21340,Toby Swindell,Berisiko,227,5,974.78,-184.98
+TS-21370,Todd Sumrall,Bernilai Tinggi,37,6,11891.75,2371.71
+TS-21430,Tom Stivers,Berisiko,173,5,2054.14,48.7
+TS-21505,Tony Sayre,Aktif,12,6,2243.27,11.38
+TS-21610,Troy Staebel,Bernilai Tinggi,56,7,2820.42,-294.7
+TS-21655,Trudy Schmidt,Berisiko,239,5,3368.09,220.92
+TT-21070,Ted Trevino,Bernilai Tinggi,32,7,4915.6,751.96
+TT-21220,Thomas Thornton,Berisiko,184,8,1427.04,278.74
+TT-21265,Tim Taslimi,Hilang,408,3,439.5,93.92
+TT-21460,Tonja Turnell,Aktif,13,7,5364.81,1124.5
+TW-21025,Tamara Willingham,Bernilai Tinggi,65,7,5278.83,737.39
+TZ-21580,Tracy Zic,Berisiko,36,4,1707.29,224.89
+VB-21745,Victoria Brennan,Aktif,55,6,2005.6,371.24
+VD-21670,Valerie Dominguez,Berisiko,583,6,6442.25,1617.79
+VF-21715,Vicky Freymann,Aktif,14,5,847.94,-96.28
+VG-21790,Vivek Gonzalez,Berisiko,155,6,846.01,143.63
+VG-21805,Vivek Grady,Berisiko,287,5,427.37,-52.33
+VM-21685,Valerie Mitchum,Bernilai Tinggi,55,7,2454.87,513.53
+VM-21835,Vivian Mathis,Berisiko,118,5,380.69,116.64
+VP-21730,Victor Preis,Berisiko,31,3,993.9,205.39
+VP-21760,Victoria Pisteka,Bernilai Tinggi,76,7,3360.53,-1018.78
+VS-21820,Vivek Sundaresam,Berisiko,222,4,1055.98,-262.81
+VT-21700,Valerie Takahito,Berisiko,1001,2,1736.6,-224.09
+VW-21775,Victoria Wilson,Bernilai Tinggi,29,10,6134.04,-874.66
+WB-21850,William Brown,Bernilai Tinggi,21,11,6160.1,714.33
+XP-21865,Xylona Preis,Bernilai Tinggi,44,11,2374.66,621.23
+YC-21895,Yoseph Carroll,Aktif,5,5,5454.35,1305.63
+YS-21880,Yana Sorensen,Aktif,10,8,6720.44,1778.29
+ZC-21910,Zuschuss Carroll,Bernilai Tinggi,55,13,8025.71,-1032.15
+ZD-21925,Zuschuss Donatelli,Berisiko,203,5,1493.94,249.13

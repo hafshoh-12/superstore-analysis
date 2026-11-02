@@ -171,3 +171,5 @@ UNION ALL SELECT 'dim_customer', COUNT(*) FROM dim_customer
 UNION ALL SELECT 'dim_product',  COUNT(*) FROM dim_product
 UNION ALL SELECT 'dim_geo',      COUNT(*) FROM dim_geo
 UNION ALL SELECT 'dim_date',     COUNT(*) FROM dim_date;
+
+select * from superstore.vw_customer_summary;
